@@ -53,6 +53,7 @@ Sources: Unclassified media articles
 (Note from data source: ‘Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions, and data collection is influenced by fluctuations in access to media coverage over both time and place.’)
 
 <img width="780" alt="GTD - Definition" src="https://user-images.githubusercontent.com/67343138/149366026-0685bd43-be22-4e99-b67e-40d634d18d6e.png">
+<p align= "right"><a href="https://start.umd.edu/gtd/">Source</a></p>
 
 _______________
 <a name="data_cleaning"></a>
